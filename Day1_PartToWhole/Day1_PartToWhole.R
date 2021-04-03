@@ -27,5 +27,5 @@ d %>%
     y = ""
   ) +
   coord_equal() +
-  theme_pomological() +
+  theme_pomological_fancy() +
   theme(panel.grid = element_blank(), axis.text=element_blank())

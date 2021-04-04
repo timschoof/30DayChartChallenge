@@ -1,6 +1,5 @@
-# Day 4
-
-
+# 30DayChartChallenge - Day 4: magic
+# Characterizing the different Harry Potter books based on relative word frequency (using weighted log odds)
 
 # install packages
 library(harrypotter) # https://github.com/bradleyboehmke/harrypotter
@@ -9,7 +8,6 @@ library(forcats)
 library(tidytext)
 library(tidylo)
 library(ggplot2)
-library(emo)
 
 # read in all text data
 book1 <- harrypotter::philosophers_stone
@@ -46,7 +44,6 @@ harry_logodds <- harry_words %>%
   mutate(highlight = ifelse(word == "harry", "yes", "no" ) )
 
 # plot
-# y axis text smaller and to the left
 harry_logodds %>%
   ggplot(aes(
     x = log_odds_weighted,

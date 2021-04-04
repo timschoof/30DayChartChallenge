@@ -15,3 +15,7 @@ My contributions to the
 ### Day 3: Historical
 
 ![image](Day3_Historical/Day3.jpeg)
+
+### Day 4: Magic
+
+![image](Day4_Magic/Day4.jpeg)

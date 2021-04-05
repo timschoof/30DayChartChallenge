@@ -19,3 +19,7 @@ My contributions to the
 ### Day 4: Magic
 
 ![image](Day4_Magic/Day4.jpeg)
+
+### Day 5: Slope
+
+![image](Day5_Slope/Day5.jpeg)

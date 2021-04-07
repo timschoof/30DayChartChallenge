@@ -27,3 +27,7 @@ My contributions to the
 ### Day 6: Experimental
 
 ![image](Day6_Experimental/Day6.jpeg)
+
+### Day 7: Physical
+
+![image](Day7_Physical/Day7.jpeg)

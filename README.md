@@ -23,3 +23,7 @@ My contributions to the
 ### Day 5: Slope
 
 ![image](Day5_Slope/Day5.jpeg)
+
+### Day 6: Experimental
+
+![image](Day6_Experimental/Day6.jpeg)

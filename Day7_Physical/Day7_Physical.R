@@ -24,7 +24,6 @@ peaks %>%
        x = "Elevation (m)",
        y = "Density") +
   coord_cartesian(expand= FALSE, clip = "off") +
-  #ylim(0, 12e-04) +
   scale_y_continuous(breaks = seq(0, 12e-04, 3e-04), limits = c(0, 12e-04)) +
   theme_bw() +
   theme(panel.background = element_rect(fill = "#ebecf0"),

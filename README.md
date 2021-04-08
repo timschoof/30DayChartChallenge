@@ -31,3 +31,7 @@ My contributions to the
 ### Day 7: Physical
 
 ![image](Day7_Physical/Day7.jpeg)
+
+### Day 8: Animals
+
+![image](Day8_Animals/Day8.jpeg)

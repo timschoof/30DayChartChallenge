@@ -35,3 +35,7 @@ My contributions to the
 ### Day 8: Animals
 
 ![image](Day8_Animals/Day8.jpeg)
+
+### Day 9: Statistics
+
+![image](Day9_Statistics/Day9.jpeg)

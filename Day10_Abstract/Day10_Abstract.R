@@ -32,10 +32,13 @@ img_sample %>%
   scale_color_identity() +
   scale_y_reverse(labels = c(72, 54, 36, 18, 0)) +
   scale_x_reverse(position = "top", labels = c(72, 48, 24, 0)) +
-  labs(x = "Distance from shower head (in)",
+  labs(title = "Abstract representation of a dotted shower curtain",
+       x = "Distance from shower head (in)",
        y = "Distance from floor (in)") +
   theme_bw() +
   theme(legend.position = "none",
+        plot.title.position = "plot",
+        plot.title = element_text(size = 12),
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank())
 

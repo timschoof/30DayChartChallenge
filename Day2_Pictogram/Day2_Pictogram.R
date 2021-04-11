@@ -49,3 +49,5 @@ cats %>%
         plot.subtitle = element_markdown(size = 12, hjust = 0.5),
         legend.position="none")
   
+# save plot
+# ggsave("Day2_Pictogram/Day2.jpeg") 

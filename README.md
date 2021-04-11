@@ -39,3 +39,7 @@ My contributions to the
 ### Day 9: Statistics
 
 ![image](Day9_Statistics/Day9.jpeg)
+
+### Day 10: Abstract
+
+![image](Day10_Abstract/Day10.jpeg)

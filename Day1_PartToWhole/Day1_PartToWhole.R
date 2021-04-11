@@ -29,3 +29,6 @@ d %>%
   coord_equal() +
   theme_pomological_fancy() +
   theme(panel.grid = element_blank(), axis.text=element_blank())
+
+# save plot
+ggsave("Day1_PartToWhole/Day1.jpeg") 

@@ -47,5 +47,6 @@ furniture2 %>%
         plot.background = element_rect(fill = "#e4d2c1", colour = NA),
         legend.position="none")
 
-
+# save plot
+# ggsave("Day3_Historical/Day3.jpeg") 
   

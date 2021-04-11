@@ -67,5 +67,6 @@ harry_logodds %>%
         axis.title.x = element_text(hjust = 1, size = 10)
     )
 
-
+# save plot
+# ggsave("Day4_Magic/Day4.jpeg") 
 

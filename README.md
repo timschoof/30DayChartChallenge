@@ -43,3 +43,11 @@ My contributions to the
 ### Day 10: Abstract
 
 ![image](Day10_Abstract/Day10.jpeg)
+
+### Day 11: Circular
+
+![image](Day11_Circular/Day11_drawn_on_ipad.png)
+
+### Day 12: Strips
+
+![image](Day12_Strips/Day12.jpeg)

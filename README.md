@@ -51,3 +51,7 @@ My contributions to the
 ### Day 12: Strips
 
 ![image](Day12_Strips/Day12.jpeg)
+
+### Day 13: Correlation
+
+![image](Day13_Correlation/Day13.jpeg)

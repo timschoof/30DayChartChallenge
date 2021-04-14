@@ -44,3 +44,6 @@ My contributions to the [#30DayChartChallenge](https://github.com/Z3tt/30DayChar
 
 ### Day 12: Strips
 ![image](Day12_Strips/Day12.jpeg)
+
+### Day 13: Correlation
+![image](Day13_Correlation/Day13.jpeg)

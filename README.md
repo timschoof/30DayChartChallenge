@@ -55,3 +55,7 @@ My contributions to the
 ### Day 13: Correlation
 
 ![image](Day13_Correlation/Day13.jpeg)
+
+### Day 14: Space
+
+![image](Day14_Space/Day14.jpeg)

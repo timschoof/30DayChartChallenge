@@ -63,3 +63,7 @@ My contributions to the
 ### Day 15: Multivariate
 
 ![image](Day15_Multivariate/Day15.jpeg)
+
+### Day 16: Trees
+
+![image](Day16_Trees/Day16.jpeg)

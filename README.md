@@ -71,3 +71,7 @@ My contributions to the
 ### Day 17: Pop Culture
 
 ![image](Day17_PopCulture/Day17.jpeg)
+
+### Day 18: Connections
+
+![image](Day18_Connections/Day18.jpg)

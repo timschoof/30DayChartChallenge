@@ -41,7 +41,7 @@ d %>%
         axis.text.x = element_text(family = "raleway", colour = "darkgray"),
         axis.text.y = element_text(family = "raleway", colour = "darkgray"),
         plot.title = element_text(size = 36),
-        plot.subtitle = element_markdown(size = 26, lineheight = 0.3),
+        plot.subtitle = element_markdown(size = 26, lineheight = 0.4),
         plot.caption = element_text(size = 20, face = "italic"),
         axis.title = element_text(size = 28),
         axis.text = element_text(size = 28),

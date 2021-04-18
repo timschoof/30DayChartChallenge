@@ -56,3 +56,6 @@ My contributions to the [#30DayChartChallenge](https://github.com/Z3tt/30DayChar
 
 ### Day 16: Trees
 ![image](Day16_Trees/Day16.jpeg)
+
+### Day 17: Pop Culture
+![image](Day17_PopCulture/Day17.jpeg)

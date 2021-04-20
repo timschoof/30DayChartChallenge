@@ -75,3 +75,7 @@ My contributions to the
 ### Day 18: Connections
 
 ![image](Day18_Connections/Day18.jpg)
+
+### Day 19: Global Change
+
+![image](Day19_GlobalChange/Day19.jpeg)

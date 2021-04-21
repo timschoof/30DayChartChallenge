@@ -79,3 +79,7 @@ My contributions to the
 ### Day 19: Global Change
 
 ![image](Day19_GlobalChange/Day19.jpeg)
+
+### Day 20: Upwards
+
+![image](Day20_Upwards/Day20.jpeg)

@@ -83,3 +83,7 @@ My contributions to the
 ### Day 20: Upwards
 
 ![image](Day20_Upwards/Day20.jpeg)
+
+### Day 21: Downwards
+
+![image](Day21_Downwards/Day21.jpeg)

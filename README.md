@@ -87,3 +87,7 @@ My contributions to the
 ### Day 21: Downwards
 
 ![image](Day21_Downwards/Day21.jpeg)
+
+### Day 22: Animation
+
+![image](Day22_Animation/Day22.gif)

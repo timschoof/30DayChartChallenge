@@ -74,3 +74,9 @@ My contributions to the [#30DayChartChallenge](https://github.com/Z3tt/30DayChar
 
 ### Day 22: Animation
 ![image](Day22_Animation/Day22.gif)
+
+### Day 23: Tiles
+![image](Day23_Tiles/Day23.jpg)
+
+### Day 24: Monochrome
+![image](Day24_Monochrome/Day24.jpeg)

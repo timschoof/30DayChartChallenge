@@ -99,3 +99,7 @@ My contributions to the
 ### Day 24: Monochrome
 
 ![image](Day24_Monochrome/Day24.jpeg)
+
+### Day 25: Demographic
+
+![image](Day25_Demographic/Day25.jpeg)

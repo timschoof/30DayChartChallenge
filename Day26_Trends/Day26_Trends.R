@@ -25,7 +25,7 @@ d %>%
   geom_boxplot(fill = "#fff9f5") +
   scale_colour_manual(values = c("#0d7680", "#802804", "#bda44d", "darkgray")) +
   labs(title = "CEO departures 2000 - 2018",
-       subtitle = "Annual number of CEO departures due to <span style='color:#0d7680'>**new career <br> opportunities**</span>, <span style='color:#802804'>**retirement**</span>, <span style='color:#bda44d'>**legal reasons**</span>, and <span style='color:darkgray'>**job <br> performance**</span>",
+       subtitle = "Annual number of CEO departures due to <span style='color:darkgray'>**new career <br> opportunities**</span>, <span style='color:#bda44d'>**retirement**</span>, <span style='color:#802804'>**legal reasons**</span>, and <span style='color:#0d7680'>**job <br> performance**</span>",
        x = "",
        y = "",
        caption = "Source: Gentry et al | DataIsPlural") +

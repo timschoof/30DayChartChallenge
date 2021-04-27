@@ -83,3 +83,6 @@ My contributions to the [#30DayChartChallenge](https://github.com/Z3tt/30DayChar
 
 ### Day 25: Demographic
 ![image](Day25_Demographic/Day25.jpeg)
+
+### Day 26: Trends
+![image](Day26_Trends/Day26.jpeg)

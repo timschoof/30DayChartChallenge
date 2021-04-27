@@ -103,3 +103,7 @@ My contributions to the
 ### Day 25: Demographic
 
 ![image](Day25_Demographic/Day25.jpeg)
+
+### Day 26: Trends
+
+![image](Day26_Trends/Day26.jpeg)

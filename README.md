@@ -107,3 +107,7 @@ My contributions to the
 ### Day 26: Trends
 
 ![image](Day26_Trends/Day26.jpeg)
+
+### Day 27: Educational
+
+![image](Day27_Educational/Day27.gif)

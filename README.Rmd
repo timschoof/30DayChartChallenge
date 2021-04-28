@@ -86,3 +86,7 @@ My contributions to the [#30DayChartChallenge](https://github.com/Z3tt/30DayChar
 
 ### Day 26: Trends
 ![image](Day26_Trends/Day26.jpeg)
+
+### Day 27: Educational
+![image](Day27_Educational/Day27.gif)
+

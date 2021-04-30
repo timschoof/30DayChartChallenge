@@ -111,3 +111,11 @@ My contributions to the
 ### Day 27: Educational
 
 ![image](Day27_Educational/Day27.gif)
+
+### Day 28: Future
+
+![image](Day28_Future/Day28.gif)
+
+### Day 29: Deviations
+
+![image](Day29_Deviations/Day29.jpeg)

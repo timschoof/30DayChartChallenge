@@ -93,3 +93,5 @@ My contributions to the [#30DayChartChallenge](https://github.com/Z3tt/30DayChar
 ### Day 28: Future
 ![image](Day28_Future/Day28.gif)
 
+### Day 29: Deviations
+![image](Day29_Deviations/Day29.jpeg)

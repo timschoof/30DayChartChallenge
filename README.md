@@ -119,3 +119,7 @@ My contributions to the
 ### Day 29: Deviations
 
 ![image](Day29_Deviations/Day29.jpeg)
+
+### Day 30: 3D
+
+![image](Day30_3D/Day30.png)
